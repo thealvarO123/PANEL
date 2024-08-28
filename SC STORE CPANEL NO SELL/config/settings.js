@@ -2,12 +2,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 // EDIT DISINI
 global.usePairingCode = false // false untuk QR
-global.owner = ['6288989013781'] // no own
+global.owner = ['6285159400145'] // no own
 global.ownerName = 'IchanDeV'
 global.namabot = 'ZXcoderID'
 global.namaowner = 'IchanZX'
-global.nomorOwner = ['6288989013781']
-global.kontakOwner = "6288989013781"
+global.nomorOwner = ['6285159400145']
+global.kontakOwner = "6285159400145"
 global.packname = 'Sticker By'
 global.author = 'ZXcoderID Assistant'
 global.sessionName = 'session' // nama session
